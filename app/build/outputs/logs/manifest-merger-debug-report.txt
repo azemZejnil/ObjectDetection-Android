@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+MERGED from [com.android.support:design:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/902a2cd69f8f8f9b7dee711bb5c84ae8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3244473424de82ea84db4da868210151/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d41b62a1a0c46714fbb59c360b2794ae/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/29cdb4e9cbd3a1cf21fe68be0e611337/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/6f8498a8c23c75e36486704b9a355d87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/cd9c3b735c4ed15d8bf8ab2172762db2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:exifinterface:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/37fa4c3fbcbd9dffbbe2a880121e3844/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6efcdac3052e286f6c1f4d20b9234bec/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/41f28ece22c6f54d61b24e86cfd3453e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/48f24f8fe6c53252b1c661daa6145c04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/808b568b1a7ea64a66972869bf7e352d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3a41e8474a6b13e5cbc9af2c0ba3d1f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/418680e18db6ad2143116c9d1f77d5bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f3c6041b4557195290593dcb3efbfa81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bdf010627a66fe1c0e5b89f54f76b944/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.9.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.9.0.aar/306013c803335e4d58bf497db0a51933/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/07b5f175737be8ee935f52f7481b6096/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:11:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:14:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:15:5-17:36
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:15:5-17:36
+	android:name
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support:design:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/902a2cd69f8f8f9b7dee711bb5c84ae8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/902a2cd69f8f8f9b7dee711bb5c84ae8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:6:5-8:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3244473424de82ea84db4da868210151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3244473424de82ea84db4da868210151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d41b62a1a0c46714fbb59c360b2794ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d41b62a1a0c46714fbb59c360b2794ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/29cdb4e9cbd3a1cf21fe68be0e611337/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/29cdb4e9cbd3a1cf21fe68be0e611337/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/6f8498a8c23c75e36486704b9a355d87/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/6f8498a8c23c75e36486704b9a355d87/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/cd9c3b735c4ed15d8bf8ab2172762db2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/cd9c3b735c4ed15d8bf8ab2172762db2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/37fa4c3fbcbd9dffbbe2a880121e3844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/37fa4c3fbcbd9dffbbe2a880121e3844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6efcdac3052e286f6c1f4d20b9234bec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6efcdac3052e286f6c1f4d20b9234bec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/41f28ece22c6f54d61b24e86cfd3453e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/41f28ece22c6f54d61b24e86cfd3453e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/48f24f8fe6c53252b1c661daa6145c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/48f24f8fe6c53252b1c661daa6145c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/808b568b1a7ea64a66972869bf7e352d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/808b568b1a7ea64a66972869bf7e352d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3a41e8474a6b13e5cbc9af2c0ba3d1f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3a41e8474a6b13e5cbc9af2c0ba3d1f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/418680e18db6ad2143116c9d1f77d5bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/418680e18db6ad2143116c9d1f77d5bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f3c6041b4557195290593dcb3efbfa81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f3c6041b4557195290593dcb3efbfa81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bdf010627a66fe1c0e5b89f54f76b944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bdf010627a66fe1c0e5b89f54f76b944/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/07b5f175737be8ee935f52f7481b6096/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/07b5f175737be8ee935f52f7481b6096/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/902a2cd69f8f8f9b7dee711bb5c84ae8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support:design:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/902a2cd69f8f8f9b7dee711bb5c84ae8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/902a2cd69f8f8f9b7dee711bb5c84ae8/AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d41b62a1a0c46714fbb59c360b2794ae/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d41b62a1a0c46714fbb59c360b2794ae/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/29cdb4e9cbd3a1cf21fe68be0e611337/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/29cdb4e9cbd3a1cf21fe68be0e611337/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/cd9c3b735c4ed15d8bf8ab2172762db2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/cd9c3b735c4ed15d8bf8ab2172762db2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6efcdac3052e286f6c1f4d20b9234bec/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6efcdac3052e286f6c1f4d20b9234bec/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/41f28ece22c6f54d61b24e86cfd3453e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/41f28ece22c6f54d61b24e86cfd3453e/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.9.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.9.0.aar/306013c803335e4d58bf497db0a51933/AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:1.9.0] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.9.0.aar/306013c803335e4d58bf497db0a51933/AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:37:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:12:22-68
+uses-feature#android.hardware.camera.front
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/bodhi64/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/07e4a6beb8299d698593b4535793c513/AndroidManifest.xml:22:9-51
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE

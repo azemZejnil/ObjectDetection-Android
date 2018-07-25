@@ -1,0 +1,4 @@
+#Wed Jul 25 10:08:52 CEST 2018
+base.0=/home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/bodhi64/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
