@@ -10,6 +10,6 @@ I trained the model on AWS server.
 <br>
 I trained it to detect only two kinds of object: my car and banana.
 <br>
-Obviously, it can detect different colors and from different angles, and that is because I provided pretraining data of such images.
+Obviously, it can detect different colors and from different angles, and that is because I provided pretraining data of such images. (it is same car, just different color and angle, ofcourse)
 <br>
 The more images you provide of certain object, the better detection will be
