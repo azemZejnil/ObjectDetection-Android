@@ -53,7 +53,7 @@ I provided images of the same car but in different colors and from different ang
 on the upper images you can see successful detection of my car from both frot and back, and in different color.
 <br>
 You want to take care of as many as possible variations, such as different light scenarios, different 
-states of object (for example, banana can be dark or green and won't be recognized if such images weren't provided)
+states of object (for example, banana can be dark or green and won't be recognized if such images weren't provided).
 
 
 
