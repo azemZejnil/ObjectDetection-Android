@@ -47,8 +47,13 @@ significantly lowered by running the provided scripts for that matter.
 
 ### Training
 
-For the training purpose, you need to provide 
-###### images and
-###### labels.
+For the training purpose, you need to provide images and labels.
+Now, obviously, the more images you provide, the better detection will be.
+I provided images of the same car but in different colors and from different angles and that is why
+on the upper images you can see successful detection of my car from both frot and back, and in different color.
+<br>
+You want to take care of as many as possible variations, such as different light scenarios, different 
+states of object (for example, banana can be dark or green and won't be recognized if such images weren't provided)
+
 
 
