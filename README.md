@@ -7,6 +7,8 @@
 ## Tensorflow's object detection model.
 <br>
 # I trained the model on AWS server. 
+<br>
+
 ## Using angular2-presta with Ionic
 
 <br>
