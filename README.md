@@ -10,3 +10,14 @@
 <br>
 Tensorflow model trained to detect two kinds of object: Car (Mercedes benz, A class 2000 and it is only type of car that can be recognized by this model.) and banana.
 
+<br>
+
+### About Tensorflow
+
+TensorFlow is a multipurpose machine learning framework. Object detection is just one of many amazing possibilities from this framework.
+<br>
+Read more here:
+<br>
+https://www.tensorflow.org/
+
+
