@@ -4,9 +4,9 @@
 <img style="float:left;" width="250" height="auto" src="https://github.com/azemZejnil/ObjectDetection-Android/blob/master/docs/imgs/Screenshot_20180725-101258.png">
 </div>
 <br>
-##Tensorflow's object detection model.
+## Tensorflow's object detection model.
 <br>
-#I trained the model on AWS server. 
+# I trained the model on AWS server. 
 <br>
 I trained it to detect only two kinds of object: my car and banana.
 <br>
