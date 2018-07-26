@@ -37,7 +37,7 @@ There is Google's official repository on Tensorflow:
 <br>
 https://github.com/tensorflow
 <br>
-There you can find directions for usage of any of the Tensorflow training models.
+There you can find directions for usage of any of the Tensorflow trained models.
 <br>
 In Android application, we can use both .pb and .tflite files. 
 After the training is finished their size is usually about 50mb, but both formats size can be 
@@ -47,5 +47,8 @@ significantly lowered by running the provided scripts for that matter.
 
 ### Training
 
+For the training purpose, you need to provide 
+###### images and
+###### labels.
 
 
