@@ -7,6 +7,8 @@
 ## Tensorflow's object detection model.
 <br>
 # I trained the model on AWS server. 
+## Using angular2-presta with Ionic
+
 <br>
 I trained it to detect only two kinds of object: my car and banana.
 <br>
