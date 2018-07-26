@@ -6,12 +6,7 @@
 <br>
 
 ## Tensorflow's object detection model.
-<br>
-
 
 <br>
-I trained it to detect only two kinds of object: my car and banana.
-<br>
-Obviously, it can detect different colors and from different angles, and that is because I provided pretraining data of such images. (it is same car, just different color and angle, ofcourse)
-<br>
-The more images you provide of certain object, the better detection will be
+Tensorflow model trained to detect two kinds of object: Car (Mercedes benz, A class 2000 and it is only type of car that can be recognized by this model.) and banana.
+
