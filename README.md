@@ -54,6 +54,12 @@ on the upper images you can see successful detection of my car from both frot an
 <br>
 You want to take care of as many as possible variations, such as different light scenarios, different 
 states of object (for example, banana can be dark or green and won't be recognized if such images weren't provided).
-
+<br>
+If I wanted to be able to detect another fruit, say apple, I would provide additional apple images and labels, ofcourse.
+<br>
+Training of the models is very demanding on the computer and you need to have very strong machine to complete it
+in reasonable amount of time.
+<br>
+I trained my model on AWS server machine
 
 
