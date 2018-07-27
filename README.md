@@ -60,6 +60,6 @@ If I wanted to be able to detect another fruit, say apple, I would provide addit
 Training of the models is very demanding on the computer and you need to have very strong machine to complete it
 in reasonable amount of time.
 <br>
-I trained my model on AWS server machine
+I trained my model on AWS server machine via remote control by ssh
 
 
