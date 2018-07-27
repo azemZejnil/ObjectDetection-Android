@@ -28,7 +28,6 @@ For some reason, back when I trained this model, Tensorflow 1.8 version has had 
 successful training of object detection models and it was advised to use 1.7
 <br>
 I used 3.6 python and Pillow library for images manipulation.
-<br>
 This is important to note because as it seems, using different Tensorflow version in Android Studio can lead to errors.
 
 ### Formating and usage in Android app
