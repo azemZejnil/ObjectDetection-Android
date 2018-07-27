@@ -31,6 +31,8 @@ I used 3.6 python and Pillow library for images manipulation.
 
 <br>
 
+This is important to note because as it seems, using different Tensorflow version in Android Studio can lead to errors.
+
 ### Formating and usage in Android app
 
 There is Google's official repository on Tensorflow:
